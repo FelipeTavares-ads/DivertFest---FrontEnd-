@@ -8,12 +8,15 @@ Projeto front do site do Divert Fest
 - Definir a estrutura inicial do frontend
 ### Atividades:
 - Configurar repositórios no Git (incuindo padronização com Git Flow)
-- 2. Configurar ambiente de desenvolvimento
-- 3. Criar a estrutura inicial de pastas e dependências do projeto
-- 4. Implementar uma tela inicial básica para testes.
+- Configurar ambiente de desenvolvimento
+- Criar a estrutura inicial de pastas e dependências do projeto
+- Implementar uma tela inicial básica para testes.
      
- Entrega
+### Entrega
+ 
 • Projeto configurado e repositorio ativo
+
 • Ambiente pronto para desenvolvimento
+
 • Prototipos estaticos da pagina inicial.
 
